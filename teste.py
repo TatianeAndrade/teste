@@ -1,4 +1,5 @@
 a = 10
 x = 23
-print a*x
-
+b = 22
+print a
+print b
