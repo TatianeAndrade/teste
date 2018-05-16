@@ -1,2 +1,3 @@
 a = 10
-print a
+x = 12
+print a*x
